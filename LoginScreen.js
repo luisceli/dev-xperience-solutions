@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
     textAlign: 'center',
-    marginBottom: 16,
+    marginBottom: 16 ,
   },
   inputContainer: {
     marginBottom: 16,
